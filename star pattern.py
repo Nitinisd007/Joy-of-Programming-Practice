@@ -7,11 +7,11 @@
 #     print()
 
 
-## Square Pattern
-# for i in range(5):
-#    for j in range(5):
-#             print('*',end='  ')
-#    print()
+# Square Pattern
+for i in range(5):
+   for j in range(5):
+            print('*',end='  ')
+   print()
 
 # Increasing Triangle
 # for i in range(5):
